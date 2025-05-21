@@ -1,9 +1,8 @@
-
 export default function Home() {
   return (
-    <main>
-      <h1>Hello, AI World!</h1>
-      <p>This is a clean Vercel AI SDK starter deployed from scratch.</p>
+    <main style={{ padding: "3rem" }}>
+      <h1>Welcome to AI Chat Template</h1>
+      <p>This is a clean Vercel-compatible starter app.</p>
     </main>
   );
 }
